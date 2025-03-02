@@ -13,12 +13,12 @@ This project visualizes bacterial cultures per sample using interactive D3.js ch
 
 ![image](https://github.com/user-attachments/assets/44ab39d9-d378-465b-8906-dc7ff4f8b557)
 
-## Live Demo
-[View Deployed App]([(https://jelizabeth022.github.io/belly-button-challenge/)])
+## Live Demo  
+(https://jelizabeth022.github.io/belly-button-challenge/)
 
 ## How to Run Locally
 1. Clone this repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone git@github.com:jelizabeth022/belly-button-challenge.git
 
 2. Open `index.html` in a browser.
 
